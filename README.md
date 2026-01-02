@@ -46,12 +46,12 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ---
 
-//## 📁 Featured Security Projects (Hands-On & SOC-Style)
+## 📁 Featured Security Projects (Hands-On & SOC-Style)
 
-//### 📧 Email & Phishing Analysis
-//- Analyzed email headers to identify spoofed domains and malicious senders  
-//- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
-//- Documented findings, impact, and mitigation recommendations  
+### 📧 Email & Phishing Analysis
+- Analyzed email headers to identify spoofed domains and malicious senders  
+- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
+- Documented findings, impact, and mitigation recommendations  
 
 🔗 *Project repo:* *(add link)*
 
@@ -110,6 +110,6 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezennabuife/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=yahoomail)](mailto:ezennabuife@yahoo.com)
