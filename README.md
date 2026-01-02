@@ -1,53 +1,114 @@
-## Hi there 👋
+# 👋 Hi, I’m Simisola (Nnabuife Eze)
 
-<!--
-**ezeiboboi/ezeiboboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **SOC Analyst | Blue Team | Threat Detection & Incident Response**
 
-Here are some ideas to get you started:
+SOC-focused cybersecurity professional with **5+ years of hands-on experience** across security operations, log analysis, endpoint monitoring, and incident response. I specialize in **defensive security**, leveraging SIEM, cloud security tools, and automation to detect threats, investigate incidents, and improve security visibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm Simisola
-
-🎯 **Aspiring SOC Analyst | Cybersecurity Student | Building Hands-on Projects**
-
-I'm passionate about analyzing threats, monitoring security logs, and building projects that simulate real-world SOC operations.
+I bring a unique blend of **engineering, IT infrastructure, and security operations** experience to mature SOC environments.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🚨 What I Do in a SOC Environment
 
-- **SIEM & Log Analysis:** Splunk  
-- **Network Analysis:** Wireshark  
-- **Threat Intelligence:** VirusTotal  
-- **Endpoint Forensics:** Velociraptor  
-
----
-
-## 🎓 Certifications & Courses
-
-- 🎓 **Google Cybersecurity Professional Certificate**  
-- 🌐 **Cisco – Network Basics**  
-- 🧠 **Deloitte Australia – Cybersecurity Job Simulation**  
+- 🔍 Monitor and triage security alerts using **Microsoft Sentinel & Splunk**
+- 📊 Analyze logs from endpoints, firewalls, and network devices
+- 📧 Investigate phishing, malware, and account compromise incidents
+- 🌐 Perform network and identity-based threat analysis
+- 🧠 Apply threat intelligence to validate indicators of compromise (IOCs)
+- 🛠️ Improve detection, documentation, and response workflows
 
 ---
 
-## 📁 Featured Projects
+## 🧰 Tools, Technologies & Skills
 
-- 📧 **Email & Phishing Analysis**  
-  Detected spoofed domains and malicious infrastructure by analyzing email headers and verifying results with MXToolbox and VirusTotal.
+### 🖥️ Security & Monitoring
+- Microsoft Sentinel (SIEM)
+- Microsoft Defender (Endpoint, Identity, Office 365, Cloud Apps, Purview)
+- Splunk
+
+### 🌐 Network, Endpoint & DFIR
+- Wireshark
+- Velociraptor
+- Windows Event Viewer (4624, 4625, 4688)
+- VPNs, Firewalls, DNS, DHCP
+
+### ☁️ Cloud & Identity (Azure)
+- RBAC & Least Privilege
+- MFA Enforcement
+- Identity & Access Reviews
+- Windows Server 2016–2022
+
+### 🧪 Scripting & Data
+- Python, SQL, PowerShell, KQL
+
+### 📜 Frameworks & Compliance
+- NIST, SOC 2, PCI DSS, HIPAA, GDPR, CCPA
 
 ---
 
-## 🔗 Connect With Me
+## 📁 Featured Security Projects (Hands-On & SOC-Style)
+
+### 📧 Email & Phishing Analysis
+- Analyzed email headers to identify spoofed domains and malicious senders  
+- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
+- Documented findings, impact, and mitigation recommendations  
+
+🔗 *Project repo:* *(add link)*
+
+---
+
+### 🖥️ Security Monitoring & Log Analysis Lab
+- Built a Windows 10/11 virtual lab using VirtualBox  
+- Configured advanced Windows audit policies  
+- Generated and analyzed security events (4624, 4625, 4688)  
+- Simulated SOC-style alert monitoring and investigation workflows  
+
+🔗 *Project repo:* *(add link)*
+
+---
+
+### 🚑 Incident Response Simulation
+- Developed an incident response plan for phishing, malware, and account compromise  
+- Walked through detection, containment, eradication, recovery, and lessons learned  
+- Practiced full incident lifecycle documentation  
+
+🔗 *Project repo:* *(add link)*
+
+---
+
+## 🎯 Professional Experience Highlights
+
+**Security Operations Analyst**
+- Monitored **2,000+ daily security events** using Sentinel & Splunk  
+- Performed incident triage and escalation to senior analysts  
+- Conducted endpoint, firewall, and network log analysis  
+- Improved compliance and security posture by **15%**
+
+**Technical Support / IAM & Security**
+- Implemented MFA, reducing unauthorized access risk by **40%**
+- Provisioned and de-provisioned user access following least privilege
+- Supported access reviews and identity security initiatives
+
+---
+
+## 🎓 Certifications & Training
+
+- 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
+- 🛡️ **CompTIA Security+**  
+- ☁️ **Microsoft Azure Security Engineer Associate** *(in progress)*  
+- 🎓 Google Cybersecurity Professional Certificate  
+
+---
+
+## 🚀 Currently Working On
+
+- Advanced detection and alert investigations in **Microsoft Sentinel**
+- SOC-style case studies with screenshots and reports
+- Improving automation using **KQL, Python, and PowerShell**
+
+---
+
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
