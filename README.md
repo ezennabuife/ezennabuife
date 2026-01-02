@@ -1,6 +1,6 @@
 # 👋 Hi, I’m King Eze (Nnabuife)
 
-🛡️ **SOC Analyst | Blue Team | Threat Detection & Incident Response**
+🛡️ **SOC Analyst | Cybersecurity Analyst | Blue Team | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
 
 SOC-focused cybersecurity professional with **5+ years of hands-on experience** across security operations, log analysis, endpoint monitoring, and incident response. I specialize in **defensive security**, leveraging SIEM, cloud security tools, and automation to detect threats, investigate incidents, and improve security visibility.
 
@@ -46,12 +46,12 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ---
 
-## 📁 Featured Security Projects (Hands-On & SOC-Style)
+//## 📁 Featured Security Projects (Hands-On & SOC-Style)
 
-### 📧 Email & Phishing Analysis
-- Analyzed email headers to identify spoofed domains and malicious senders  
-- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
-- Documented findings, impact, and mitigation recommendations  
+//### 📧 Email & Phishing Analysis
+//- Analyzed email headers to identify spoofed domains and malicious senders  
+//- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
+//- Documented findings, impact, and mitigation recommendations  
 
 🔗 *Project repo:* *(add link)*
 
