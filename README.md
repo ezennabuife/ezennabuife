@@ -22,21 +22,13 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 ## 🧰 Tools, Technologies & Skills
 
 ### 🖥️ Security & Monitoring
-- Microsoft Sentinel (SIEM)
-- Microsoft Defender (Endpoint, Identity, Office 365, Cloud Apps, Purview)
-- Splunk
+- Microsoft Sentinel (SIEM), Microsoft Defender (Endpoint, Identity, Office 365, Cloud Apps, Purview), Splunk
 
 ### 🌐 Network, Endpoint & DFIR
-- Wireshark
-- Velociraptor
-- Windows Event Viewer (4624, 4625, 4688)
-- VPNs, Firewalls, DNS, DHCP
+- Wireshark, Windows Event Viewer (4624, 4625, 4688), VPNs, Firewalls, DNS, DHCP
 
 ### ☁️ Cloud & Identity (Azure)
-- RBAC & Least Privilege
-- MFA Enforcement
-- Identity & Access Reviews
-- Windows Server 2016–2022
+- RBAC & Least Privilege, MFA Enforcement, Identity & Access Reviews, Windows Server 2016–2022
 
 ### 🧪 Scripting & Data
 - Python, SQL, PowerShell, KQL
@@ -95,7 +87,7 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
 - 🛡️ **CompTIA Security+**  
-- ☁️ **Microsoft Azure Security Engineer Associate** *(in progress)*  
+- ☁️ **Microsoft Azure Security Engineer Associate (AZ-500)** *(in progress)*  
 
 ---
 
