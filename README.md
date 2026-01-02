@@ -101,8 +101,8 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ## 🚀 Currently Working On
 
+- Preparing for the Microsoft AZ-500 (Azure Security Engineer Associate) exam, scheduled for January 31, 2025
 - Advanced detection and alert investigations in **Microsoft Sentinel**
-- SOC-style case studies with screenshots and reports
 - Improving automation using **KQL, Python, and PowerShell**
 
 ---
