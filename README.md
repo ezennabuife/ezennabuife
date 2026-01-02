@@ -111,5 +111,5 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezennabuife/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ezeiboboi)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=yahoomail)](mailto:ezennabuife@yahoo.com)
