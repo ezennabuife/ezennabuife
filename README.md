@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Simisola (Nnabuife Eze)
+# 👋 Hi, I’m King Eze (Nnabuife)
 
 🛡️ **SOC Analyst | Blue Team | Threat Detection & Incident Response**
 
