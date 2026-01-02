@@ -15,28 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Simisola
-🎯 Aspiring SOC Analyst | Cybersecurity Student | Building Hands-on Projects
-
-I’m passionate about analyzing threats, monitoring security logs, and building projects that simulate real-world SOC operations.
-
-🧰 Tools & Technologies
-SIEM & Log Analysis: Splunk
-Network Analysis: Wireshark
-Threat Intelligence: VirusTotal
-Endpoint Forensics: Velociraptor
-🎓 Certifications & Courses
-🎓 Google Cybersecurity Professional Certificate
-🧩 Cisco - Network Basics
-💼 Deloitte Australia - Cybersecurity Job Simulation
-📂 Featured Projects
-📨 Email & Phishing Analysis
-Detected spoofed domains and malicious infrastructure by analyzing email headers and verifying results with MXToolbox and VirusTotal.
-📫 Connect With Me
-LinkedIn GitHub Email
-
-
-
 # 👋 Hi, I'm Simisola
 
 🎯 **Aspiring SOC Analyst | Cybersecurity Student | Building Hands-on Projects**
