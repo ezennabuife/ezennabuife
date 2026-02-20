@@ -1,4 +1,4 @@
-# 👋 Hi, I’m King Eze (Nnabuife)
+# King Eze (Nnabuife)'s IT and Cybersecurity Project Portfolio 🔐
 
 🛡️ **SOC Analyst | Cybersecurity Analyst | Blue Team | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
 
