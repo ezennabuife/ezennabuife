@@ -51,6 +51,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - 🛡️ **CompTIA Security+**  
 - ☁️ **Microsoft Azure Security Engineer Associate (AZ-104)** *(in progress)*  
 
+---
+
 **🤳 Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezennabuife/)
