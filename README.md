@@ -1,86 +1,57 @@
-# King Eze (Nnabuife)'s IT and Cybersecurity Project Portfolio 🔐
+## **King Eze (Nnabuife)'s IT and Cybersecurity Project Portfolio 🔐**
 
-🛡️ **SOC Analyst | Cybersecurity Analyst | Blue Team | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
+🛡️ **SOC Analyst | Cybersecurity Analyst | Threat Detection & Incident Response | SC-200 | CompTIA Security+**
 
-SOC-focused cybersecurity professional with **5+ years of hands-on experience** across security operations, log analysis, endpoint monitoring, and incident response. I specialize in **defensive security**, leveraging SIEM, cloud security tools, and automation to detect threats, investigate incidents, and improve security visibility.
-
-I bring a unique blend of **engineering, IT infrastructure, and security operations** experience to mature SOC environments.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ---
 
-## 🚨 What I Do in a SOC Environment
+**⚠️ Vulnerability Management Projects**
 
-- 🔍 Monitor and triage security alerts using **Microsoft Sentinel & Splunk**
-- 📊 Analyze logs from endpoints, firewalls, and network devices
-- 📧 Investigate phishing, malware, and account compromise incidents
-- 🌐 Perform network and identity-based threat analysis
-- 🧠 Apply threat intelligence to validate indicators of compromise (IOCs)
-- 🛠️ Improve detection, documentation, and response workflows
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ---
 
-## 🧰 Tools, Technologies & Skills
-
-### 🖥️ Security & Monitoring
-- Microsoft Sentinel (SIEM), Microsoft Defender (Endpoint, Identity, Office 365, Cloud Apps, Purview), Splunk
-### 🌐 Network, Endpoint & DFIR
-- Wireshark, Windows Event Viewer (4624, 4625, 4688), VPNs, Firewalls, DNS, DHCP
-### ☁️ Cloud & Identity (Azure)
-- RBAC & Least Privilege, MFA Enforcement, Identity & Access Reviews, Windows Server 2016–2022
-### 🧪 Scripting & Data
-- Python, SQL, PowerShell, KQL
-### 📜 Frameworks & Compliance
-- NIST, SOC 2, PCI DSS, HIPAA, GDPR, CCPA
+**🚨 Threat Hunting and Security Operations**
+- Threat Hunting Scenario (Tor Browser Usage)
+- Creation of a Mini SOC and Honeynet
 
 ---
 
-## 📁 Featured Security Projects (Hands-On & SOC-Style)
-
-### 📧 Email & Phishing Analysis
-- Analyzed email headers to identify spoofed domains and malicious senders  
-- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
-- Documented findings, impact, and mitigation recommendations  
-
-🔗 *Project repo:* *(add link)*
-
----
-
-### 🖥️ Security Monitoring & Log Analysis Lab
-- Built a Windows 10/11 virtual lab using VirtualBox  
-- Configured advanced Windows audit policies  
-- Generated and analyzed security events (4624, 4625, 4688)  
-- Simulated SOC-style alert monitoring and investigation workflows  
-
-🔗 *Project repo:* *(add link)*
-
----
-
-### 🚑 Incident Response Simulation
+**🚑 Incident Response Simulation**
 - Developed an incident response plan for phishing, malware, and account compromise  
 - Walked through detection, containment, eradication, recovery, and lessons learned  
 - Practiced full incident lifecycle documentation  
 
-🔗 *Project repo:* *(add link)*
+---
+
+**📧 Email & Phishing Analysis**
+- Analyzed email headers to identify spoofed domains and malicious senders  
+- Correlated IPs, domains, and hashes using VirusTotal and MXToolbox  
+- Documented findings, impact, and mitigation recommendations  
 
 ---
 
-## 🎓 Certifications & Training
+**🧰 Tools, Technologies & Skills**
 
+- **Languages:** SQL, Python, KQL, PowerShell Scripting
+- **Operating Systems:** Windows, Android, iOS, Mac OS, Linux
+- **Security Tools:** Microsoft Defender suite (including Defender for Office 365, Cloud Apps, Purview, Endpoint, Identity), Microsoft Sentinel, Splunk
+- **Security & Compliance:** NIST, GDPR, CCPA, HIPAA, SOC 2, PCI-DSS.
+- **Cloud & Infrastructure:** Microsoft Azure, Cloud Service Models, Windows Server 2016–2022
+- Networking & Security: TCP/IP, UDP, SSH, VPN, DNS, DHCP, Firewalls, Domain Policies, Vulnerability Remediation, Multi-Factor Authentication, Access Control
+- **AI Fundamentals:** Prompt Engineering & Output Evaluation, Creating responsible generative AI solutions, Microsoft Security Copilot (Copilot in Defender XDR, Purview, Entra, Intune and Cloud)
+- **Skills:** Information security, Malware Analysis, Network Monitoring, Threat Detection, Incident Response, Time Management, Problem Solving, Teamwork and Creativity
+
+---
+
+**🎓 Certifications & Training**
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
 - 🛡️ **CompTIA Security+**  
-- ☁️ **Microsoft Azure Security Engineer Associate (AZ-500)** *(in progress)*  
+- ☁️ **Microsoft Azure Security Engineer Associate (AZ-104)** *(in progress)*  
 
----
-
-## 🚀 Currently Working On
-
-- Preparing for the Microsoft AZ-500 (Azure Security Engineer Associate) exam, scheduled for February 28, 2025
-- Advanced detection and alert investigations in **Microsoft Sentinel**
-- Improving automation using **KQL, Python, and PowerShell**
-
----
-
-## 🤝 Let’s Connect
+**🤳 Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezennabuife/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ezeiboboi)
