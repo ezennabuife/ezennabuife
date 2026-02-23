@@ -48,7 +48,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 **🎓 Certifications & Training**
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
 - 🛡️ **CompTIA Security+**  
-- ☁️ **Microsoft Azure Security Engineer Associate (AZ-104)** *(in progress)*  
+- ☁️ **Microsoft Azure Administrator Associate (AZ-104)** *(in progress)*  
 
 ---
 
