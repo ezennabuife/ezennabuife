@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ---
 
 **🚑 Incident Response Simulation**
-- Developed an incident response plan for phishing, malware, and account compromise  
+- **[Developed an incident response plan for phishing, malware, and account compromise](https://github.com/ezennabuife/Incident-Response-Simulation)**  
 - Walked through detection, containment, eradication, recovery, and lessons learned  
 - Practiced full incident lifecycle documentation  
 
